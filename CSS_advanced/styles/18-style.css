@@ -503,7 +503,7 @@ html {
   .nav {
     margin: 0;
     padding: 0;
-    style: none;
+    list-style-type: none;
     text-align: center;
   }
 
@@ -511,7 +511,7 @@ html {
     font-family: var(--nav-item-font-family);
     font-weight: var(--nav-item-font-weight);
     font-size: var(--nav-item-font-size);
-    letter-spacing: var(--nav-item-letter-spacinq);
+    letter-spacing: var(--nav-item-letter-spacing);
     display: var(--nav-item-display);
     margin: var(--nav-item-margin);
   }
