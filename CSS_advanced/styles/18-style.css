@@ -496,13 +496,14 @@ html {
     padding: var(--footer-padding);
   }
 
-  .navbar-menu: {
+  .navbar-menu {
     float: right;
   }
 
   .nav {
     margin: 0;
     padding: 0;
+    style: none;
     text-align: center;
   }
 
