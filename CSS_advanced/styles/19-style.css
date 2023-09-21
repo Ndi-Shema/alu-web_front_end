@@ -553,6 +553,6 @@ html {
     color: var(--text-color);
   }
 
-  .footer .ul {
+  ul.footer {
     text-align: right;
   }
